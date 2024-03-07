@@ -1,0 +1,27 @@
+<h2>Contatos</h2>
+
+<form action="#">
+
+<label for="email">Email</label> <br>
+
+<input type="text" name="email"> <br>
+
+<label for="mensagen" Mensagem</label> <br>
+
+<textarea name="mensagem" cols="30" rows="10"></textarea><br>
+
+<label for="date">Data de Nascimento</label><br>
+
+<input type="date" name="date"><br>
+
+<label for="color">Cor preferida</label><br>
+
+<input type="color" name="color">
+
+<label for="file">Envie sua foto</label><br>
+
+<input type="file" name="file"><br>
+
+<input type="submit">
+
+</form>
