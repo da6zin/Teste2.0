@@ -1,0 +1,14 @@
+main{
+    width: 80vw;
+    height: 60vw;
+    display: flex;
+    align-items: center;
+    background-color: lightgray;
+}
+
+table, th, td{
+    border: 2px dolid black;
+    padding: 5px;
+    text-align: center;
+    border-collapse: collapse;
+}
